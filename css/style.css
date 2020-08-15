@@ -63,3 +63,11 @@ address{
     left: 0;
     min-height: 300px;
 }
+#bttn1{
+    background-color:green;
+    color:white;
+}
+#bttn2{
+    background-color:rgb(194, 1, 1);
+    color:white;
+}
